@@ -1,5 +1,6 @@
 */classes/
 /.idea/workspace.xml
+/.idea/kotlinc.xml
 .metadata
 
 .gradle
