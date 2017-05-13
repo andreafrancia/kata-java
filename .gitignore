@@ -1,4 +1,5 @@
-classes
+*/classes/
+/.idea/workspace.xml
 .metadata
 
 .gradle
@@ -7,9 +8,6 @@ classes
 .settings
 bin
 example3/build
-*.iml
-*.eml
 *.ipr
 *.iws
-.idea/
 out
