@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mastercrupt/mastercrupt.iml" filepath="$PROJECT_DIR$/mastercrupt/mastercrupt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strangereons/strangereons.iml" filepath="$PROJECT_DIR$/strangereons/strangereons.iml" />
     </modules>
   </component>
 </project>
